@@ -1,4 +1,8 @@
-langchain-groq
+langchain_groq
 langgraph
 dotenv
 ipykernel
+langchain
+langchain_community
+langchain_openai
+langchain_cohere
